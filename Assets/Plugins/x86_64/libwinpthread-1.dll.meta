@@ -1,0 +1,11 @@
+fileFormatVersion: 2
+guid: 03110fb52664280468efaebbc8468eaa
+pluginImporter:
+  cpu: x86_64
+  platformData:
+    Windows:
+      enabled: 1
+      settings:
+        ExcludeEditor: 1
+    Editor:
+      enabled: 0
